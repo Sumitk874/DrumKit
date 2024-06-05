@@ -4,7 +4,7 @@ The Drum Kit Simulator is a web-based application built using HTML, CSS, and Jav
 
 ## Demo
 
-[Add a link to a live demo or provide instructions on how to access the project.]
+[LINK.](https://sumitk874.github.io/DrumKit/)
 
 ## Features
 
