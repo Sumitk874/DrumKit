@@ -2,6 +2,9 @@
 
 The Drum Kit Simulator is a web-based application built using HTML, CSS, and JavaScript. It allows users to play sounds of different instruments in a drum kit by pressing specific keystrokes or clicking on the corresponding drum pads.
 
+
+![image](https://github.com/Sumitk874/DrumKit/assets/69776082/4dc08c01-4b18-42b5-949b-491550e8285f)
+*Screenshot 1: Drum Kit Simulator with keys and drum pads*
 ## Demo
 
 [LINK.](https://sumitk874.github.io/DrumKit/)
@@ -30,10 +33,7 @@ The Drum Kit Simulator is a web-based application built using HTML, CSS, and Jav
 - To modify the drum kit layout or design, you can edit the CSS code in the `styles.css` file.
 - If you want to change the drum sounds or add new instruments, you can modify the JavaScript code in the `script.js` file.
 
-## Screenshots
 
-![image](https://github.com/Sumitk874/DrumKit/assets/69776082/4dc08c01-4b18-42b5-949b-491550e8285f)
-*Screenshot 1: Drum Kit Simulator with keys and drum pads*
 
 ## Contributing
 
